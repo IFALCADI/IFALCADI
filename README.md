@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IFALCADI, the Academic Directory of Interior Design of the Federal Institute of Alagoas.
+- 👋 Hi, I’m @IFALCADI, the Academic Directory of Interior Design of the Federal Institute of Alagoas, in Maceió, Alagoas.
 - 👀 I’m interested in making my team activities as automated as possible.
 - 🌱 I’m currently learning about project management and 
 - 💞️ I’m looking to collaborate on projects that will further my knowledge in 
